@@ -21,5 +21,4 @@ Werkzeug==2.0.1
 xgboost==1.4.2
 gunicorn==19.9.0
 matplotlib>=1.4.3
-pandas>=0.19
 flask_cors>=3.0.7
